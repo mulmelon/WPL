@@ -27,7 +27,7 @@ Its philosophy is simple:
 
 WPL is a custom license and has not been legally reviewed or approved by the Open Source Initiative (OSI).
 
-For complete terms and conditions, see the [LICENSE](LICENSE) file.
+For complete terms and conditions, see the [LICENSE.md](LICENSE.md) file.
 
 ---
 
