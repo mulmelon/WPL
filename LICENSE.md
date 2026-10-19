@@ -47,6 +47,8 @@ All rights not expressly granted herein are reserved by their respective copyrig
 
 This License grants no right to falsely imply endorsement by the original authors.
 
+The author reserves the right to publish revised versions of this License at any time, without affecting existing grants. However, this is unlikely, as writing legalese is an absolute nightmare.
+
 **Use it. Improve it. Share it. Give credit. Share your changes.**
 
 Stay creative. Stay watermelon. 🍉
